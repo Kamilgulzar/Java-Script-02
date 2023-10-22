@@ -83,3 +83,17 @@
 // var usd1 = 104.80
 // document.write("Total currency in PKR:"+ "" ,(tusd*usd1)+(tsar*sar1))
 
+// Q10
+// var num = 5 
+// document.write((num+5)+(num*10)+(num/2))
+
+// Q11
+// var current_year = 2023
+// var birth_year = 2004
+// document.write("Your age is: " ,current_year-birth_year)
+
+// Q12
+// document.write("<b>"+"The Geometrizer"+"</b>"+"</br>")
+// var radiusOfCircle = 20
+// document.write("The circumference is: ",2*3.142*radiusOfCircle + "</br>")
+// document.write("The area is: ",3.142*20*2)
